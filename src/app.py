@@ -1,5 +1,13 @@
 import streamlit as st
 
+"""
+Project: Leeds Multi-session Scripted Speech (LMS)
+Tool: LSM Naming Tool
+Description: Tool to generate files name that follows the project Naming convention
+Code Author: Patricia Ternes
+GitHub: https://github.com/patricia-ternes/LMS_naming_tool
+"""
+
 header = st.container()
 box1 = st.container()
 box2 = st.container()
