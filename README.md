@@ -1,6 +1,7 @@
 # LMS Naming Tool
 
 [![Open in Streamlit][streamlit-badge]][naming-tool]
+![Release Badge](https://img.shields.io/github/v/release/patricia-ternes/LMS_naming_tool)
 
 ## Description
 
